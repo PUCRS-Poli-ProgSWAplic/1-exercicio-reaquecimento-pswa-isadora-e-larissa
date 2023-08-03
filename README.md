@@ -28,4 +28,5 @@ Vamos fazer alguns exercícios para relembrar alguns conceitos e aproveitar para
      }
     ```
 1. Escreva um programa que conte até 10 e envie os números para uma ferramenta de log. Esta ferramenta de log deve ser construída por uma fábrica. Utilize Factory Method para permitir a escolha entre dois tipos de log: em arquivo (log.txt) ou diretamente no console. A escolha deve ser por um parâmetro passado ao programa (“arquivo” ou “console”)
+
 1. Escreva um programa que exiba uma mensagem diferente para cada dia da semana usando o padrão Strategy.
